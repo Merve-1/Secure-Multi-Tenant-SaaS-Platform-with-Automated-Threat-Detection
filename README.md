@@ -6,6 +6,8 @@ A serverless, multi-tenant SaaS platform built on AWS, designed to provide secur
 
 This project aims to build a secure and cost-conscious AWS solution that combines multi-tenant application management with cloud security monitoring, automated alerts, and incident tracking.
 
+<img width="1492" height="1072" alt="SaaS Arc drawio" src="https://github.com/user-attachments/assets/465d28f4-3164-479a-aab4-021c2fcaa086" />
+
 ## Key Features
 
 - Multi-tenant organization and project management
